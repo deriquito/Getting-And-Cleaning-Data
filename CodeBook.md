@@ -3,7 +3,7 @@ This is the code book for the dataset tidydata.txt from the online course Gettin
 
 ## Definition of variables
 
-*Subject
+* Subject
     The numeric codes of the persons who participated in the experiment.  Values are from 1 to 30.
 
 *Activity
