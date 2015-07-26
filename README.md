@@ -1,6 +1,9 @@
 # Getting-And-Cleaning-Data
 This repository contains files required in the online course Getting and Cleaning Data, John Hopkins University, Coursera
 
+##CodeBook.md
+File containing the definition of each variable used in the dataset tidydata.txt.
+
 ##run_analysis.R
 #####This script is performs the following:
 1. Downloads the Human Activity Recognition Using Smartphones Dataset from http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
