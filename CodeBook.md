@@ -17,6 +17,7 @@ This is the code book for the dataset tidydata.txt from the online course Gettin
 
 ##### tBodyAcc-mean()-X 
 *    Average of Time Domain Body Acceleration Mean on the X-axis
+
 ##### tBodyAcc-mean()-Y
 *    Average of Time Domain Body Acceleration Mean on the Y-axis
 ##### tBodyAcc-mean()-Z
