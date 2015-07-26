@@ -20,13 +20,16 @@ This is the code book for the dataset tidydata.txt from the online course Gettin
 
 ##### tBodyAcc-mean()-Y
 *    Average of Time Domain Body Acceleration Mean on the Y-axis
+
 ##### tBodyAcc-mean()-Z
 *    Average of Time Domain Body Acceleration Mean on the Z-axis
 
 ##### tBodyAcc-std()-X
 *    Average of Time Domain Body Acceleration Standard Deviation on the X-axis
+
 ##### tBodyAcc-std()-Y
 *    Average of Time Domain Body Acceleration Standard Deviation on the Y-axis
+
 ##### tBodyAcc-std()-Z
 *    Average of Time Domain Body Acceleration Standard Deviation on the Z-axis
 
