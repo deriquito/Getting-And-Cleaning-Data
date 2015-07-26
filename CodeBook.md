@@ -1,5 +1,5 @@
 # Code Book 
-This is the code book for the dataset tidydata.txt from the online course Getting and Cleaning Data, John Hopkins University, Coursera.
+This is the code book contains the definitions of all the variables in the dataset tidydata.txt from the online course Getting and Cleaning Data, John Hopkins University, Coursera.
 
 ## Definition of variables
 
